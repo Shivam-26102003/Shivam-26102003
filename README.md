@@ -26,14 +26,14 @@ I’m a **final year Computer Science student** passionate about software engine
 | Languages           | Frameworks & Libraries        | Tools & Platforms      |
 | ------------------- | ----------------------------- | ---------------------- |
 | Python · C++ · Java | NumPy · Pandas · Scikit-Learn | Git · Docker · VS Code |
-| JavaScript · SQL    | React · Node.js · FastAPI     | Linux · AWS · Jira     |
+| JavaScript · SQL    | React · Node.js · FastAPI     | Linux · AWS     |
 
 ---
 
 ## 📫 Let’s Connect
 
-- 📧 Email: [your.email@example.com](mailto:sagarshivam1626@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/shivam-sagar-40266225a/)
+- 📧 Email: [Email-Shivam_Sagar](mailto:sagarshivam1626@gmail.com)
+- 🔗 LinkedIn: [Linkedin_Profile](https://www.linkedin.com/in/shivam-sagar-40266225a/)
 
 ---
 
@@ -63,21 +63,21 @@ Welcome to my dynamic updates section! Dive in and explore:
 
 🖼️ Convolutional & Recurrent Neural Networks
 
-📈 Insights from Competitions (IMC Trading Prosperity 2025)
+**📈 Insights from Competitions (IMC Trading Prosperity 2025)**
 
-**📉 Performance Breakdown**
+📉 Performance Breakdown
 
 Model accuracy trends over time
 
 Memory & latency trade-offs
 
-**💡 Key Learnings**
+💡 Key Learnings
 
 Innovative feature engineering
 
 Ensemble stacking tricks
 
-**📊 Comparative Analyses**
+📊 Comparative Analyses
 
 Leaderboard snapshots
 
