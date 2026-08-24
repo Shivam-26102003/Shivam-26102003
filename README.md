@@ -203,9 +203,9 @@
 <tr>
 <td width="100%" valign="top">
 
-### ⚙️ Backend & Systems Architecture
-- **Core Technologies:** FastAPI, Spring Boot, PostgreSQL, Redis, Docker, Flask, Django REST APIs
-- **Engineering & Systems Concepts:** System Design, Domain-Driven Design (DDD), Clean Architecture, SOLID Principles, Concurrency, Transactional Safety (Pessimistic Locking `SELECT FOR UPDATE`, Double-Entry Ledgers), API Idempotency, Microservices, Distributed Systems
+### ⚙️ Backend & Systems (40%)
+- **Core Stack:** FastAPI, Spring Boot, PostgreSQL, Redis, Docker, Flask, Django REST APIs
+- **Architecture & System Design:** System Design, Domain-Driven Design (DDD), Clean Architecture, SOLID Principles, Concurrency, Transactional Safety (Pessimistic Locking `SELECT FOR UPDATE`, Double-Entry Ledgers), API Idempotency, Microservices, Distributed Systems
 <br/>
 <p align="left">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
@@ -220,8 +220,8 @@
 <tr>
 <td width="100%" valign="top">
 
-### 🧠 AI / ML & Agent Systems
-- **Agentic & Tooling Infrastructure:** AI Agents, MCP, Ollama, LLMs, RAG, LangChain, LlamaIndex, Multi-Agent Systems (Planner / Executor / Verifier)
+### 🧠 AI / ML & Agent Systems (35%)
+- **Agentic Infrastructure & Tooling:** AI Agents, MCP, Ollama, LLMs, RAG, LangChain, LlamaIndex, Multi-Agent Systems (Planner / Executor / Verifier)
 - **Deep Learning & ML Foundations:** PyTorch, TensorFlow, Machine Learning, Deep Learning
 - **Vision & Language:** Computer Vision (ResNeXt-50, OpenCV), NLP (Embedding-based Semantic Retrieval), LSTM
 <br/>
@@ -241,7 +241,7 @@
 <tr>
 <td width="60%" valign="top">
 
-### 💻 Languages
+### 💻 Languages (15%)
 - **Core Languages:** Python, C++, Java, TypeScript, JavaScript, SQL
 - **Algorithmic Foundations:** Data Structures & Algorithms, Object-Oriented Design (OOD)
 <br/>
@@ -256,7 +256,7 @@
 </td>
 <td width="40%" valign="top">
 
-### 🌐 Frontend
+### 🌐 Frontend (10%)
 - **Frameworks & UI:** React.js, Next.js, HTML5, CSS3
 <br/>
 <p align="left">
