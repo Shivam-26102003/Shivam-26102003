@@ -177,6 +177,12 @@
                     ┌─────────────────────┐
                     │ Verification Audit  │
                     │ 20-App QA Check     │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │     Case Study      │
+                    │     index.html      │
                     └─────────────────────┘
 ```
 
@@ -185,20 +191,20 @@
 ## 💼 Experience
 
 ### **Solvor** — *Software Developer Intern*
-- Built embedding-based semantic retrieval pipelines for JEE/GATE question banks, enabling AI-driven recommendations across CompeteHub.
-- Engineered student activity and mock-test data pipelines, powering real-time analytics for a platform reporting 92% test completion.
-- Optimized REST APIs with Redis caching and efficient data access, supporting platform performance targets of < 2s load times.
+- Built embedding-based semantic retrieval pipelines for JEE/GATE question banks.
+- Engineered student performance analytics and mock-test data ingestion pipelines.
+- Developed high-throughput REST APIs, implementing Redis caching and backend query optimizations.
 
 <br/>
 
-## 🧰 Technical Arsenal
+## 🧰 Technical Skills
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🧠 AI / ML & Agent Systems
-- **Agents & Tooling:** AI Agents, MCP (Composio MCP), LLMs, RAG, Ollama, LangChain, LlamaIndex
+- **Agents & Tooling:** AI Agents, MCP, LLMs, RAG, Ollama, LangChain, LlamaIndex
 - **Deep Learning & ML:** PyTorch, TensorFlow, Machine Learning, Deep Learning
 - **Vision & Language:** Computer Vision (ResNeXt-50, OpenCV), NLP (Embedding-based Semantic Retrieval), LSTM
 
@@ -233,7 +239,7 @@
 <p align="center">
   <!-- AI / ML & Agents -->
   <img src="https://img.shields.io/badge/AI_Agents-0052CC?style=for-the-badge&logo=probot&logoColor=white" alt="AI Agents"/>
-  <img src="https://img.shields.io/badge/MCP-Composio-8A2BE2?style=for-the-badge&logo=connectwise&logoColor=white" alt="MCP"/>
+  <img src="https://img.shields.io/badge/MCP-8A2BE2?style=for-the-badge&logo=connectwise&logoColor=white" alt="MCP"/>
   <img src="https://img.shields.io/badge/LLMs-Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/Computer_Vision-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision"/>
