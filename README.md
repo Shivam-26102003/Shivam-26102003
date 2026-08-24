@@ -203,7 +203,7 @@
 <tr>
 <td width="100%" valign="top">
 
-### ⚙️ Backend & Systems
+### ⚙️ Backend & Systems Architecture
 - **Core Technologies:** FastAPI, Spring Boot, PostgreSQL, Redis, Docker, Flask, Django REST APIs
 - **Engineering & Systems Concepts:** System Design, Domain-Driven Design (DDD), Clean Architecture, SOLID Principles, Concurrency, Transactional Safety (Pessimistic Locking `SELECT FOR UPDATE`, Double-Entry Ledgers), API Idempotency, Microservices, Distributed Systems
 <br/>
