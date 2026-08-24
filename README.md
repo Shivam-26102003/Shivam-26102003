@@ -34,8 +34,8 @@
 
 - **AI Research Agents** with Composio MCP & Ollama
 - **Deepfake Video Detection** via ResNeXt-50 + LSTM
+- **Multi-Agent CLI Systems** (Planner / Executor / Verifier)
 - **Semantic Retrieval** & RAG data pipelines
-- **Multi-Agent Systems** (Planner / Executor / Verifier)
 </td>
 
 <td width="33%" valign="top">
@@ -125,12 +125,13 @@
 </td>
 <td width="50%" valign="top">
 
-### 📄 [Analyse Resume](https://github.com/Shivam-26102003/Analyse_Resume)
-*Enterprise resume evaluation platform built with Spring Boot 21 and React.*
+### ⚙️ [AI Ops Assistant](https://github.com/Shivam-26102003/ai_ops_assistant)
+*CLI-based GenAI operations assistant using decoupled multi-agent architectures with real API integrations.*
 
-- **Tech Stack:** Spring Boot 21, Java, MySQL, OAuth2, JWT, React, Brevo API
-- **Architecture:** Multi-tier Spring Security architecture with JWT HTTP-only cookies, Google OAuth2 login, Apache Tika extraction, and Gemini SDK analysis
-- **Links:** [GitHub Repository](https://github.com/Shivam-26102003/Analyse_Resume)
+- **Tech Stack:** Python, OpenAI API, Gemini API, GitHub REST API, OpenWeather API
+- **Architecture:** Planner Agent (LLM JSON plan generation) → Executor Agent (API execution with retries) → Verifier Agent (LLM validation & output formatting)
+- **Features:** Single & multi-API task execution, rate-limit resilient retry engine, low-temperature deterministic outputs
+- **Links:** [GitHub Repository](https://github.com/Shivam-26102003/ai_ops_assistant)
 
 </td>
 </tr>
